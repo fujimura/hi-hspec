@@ -1,4 +1,4 @@
-boilerplate-hspec
+hi-hspec
 =================
 
-A template for [boilerplate](https://github.com/fujimura/boilerplate).
+A template for [hi](https://github.com/fujimura/hi).
