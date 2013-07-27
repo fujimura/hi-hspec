@@ -1,4 +1,4 @@
-module Test.${moduleName}Spec (main, spec) where
+module ${moduleName}Spec (main, spec) where
 
 main :: IO ()
 main = hspec spec
