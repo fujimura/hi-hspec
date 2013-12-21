@@ -1,7 +1,7 @@
 Name:                   $packageName
 Version:                0.0.0
-Author:                 $author<$email>
-Maintainer:             $author<$email>
+Author:                 $author <$email>
+Maintainer:             $author <$email>
 License:                BSD3
 License-File:           LICENSE
 -- Synopsis:               
