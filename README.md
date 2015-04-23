@@ -9,6 +9,7 @@ example:
 $ hi -m Foo.Bar -p foo-bar  -r git@github.com:fujimura/hi-hspec.git
 $ tree
 .
+├── ChangeLog.md
 ├── LICENSE
 ├── README.md
 ├── foo-bar.cabal
@@ -22,7 +23,7 @@ $ tree
     │   └── BarSpec.hs
     └── Spec.hs
 
-5 directories, 7 files
+5 directories, 8 files
 ```
 
 Copyright 2013-2014 Fujimura Daisuke, under the MIT license.

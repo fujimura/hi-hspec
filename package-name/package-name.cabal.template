@@ -8,6 +8,7 @@ License-File:           LICENSE
 -- Description:            
 Cabal-Version:          >= 1.10
 Build-Type:             Simple
+Extra-Source-Files:     README.md, ChangeLog.md
 
 Library
   Default-Language:     Haskell2010
